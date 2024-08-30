@@ -8,4 +8,4 @@ This anonymous repo contains data and part of the models finetuned and Pretraine
 
 ## Models
 
-- The Models repository contains zip files of our PLM AdminBERT in large and small versions. As some of the models are fine-tuned, we couldn't upload NERmemBERT-Lare 3 entities and Wikineural-NER for storage reasons.
+- The Models repository contains our PLM AdminBERT zip files in large and small versions. As some of the finetuned models, we couldn't upload NERmemBERT-Lare 3 entities and Wikineural-NER for storage reasons.
